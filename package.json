@@ -1,0 +1,15 @@
+{
+  "name": "parcel-crash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main/index.html",
+  "scripts": {
+    "build-works": "parcel build src/works.html",
+    "build-fails": "parcel build src/fails.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.0.0-alpha.3.2"
+  }
+}
